@@ -1,0 +1,5 @@
+out/
+target/
+lib/
+sources.txt
+*.class

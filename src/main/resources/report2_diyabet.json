@@ -1,0 +1,60 @@
+{
+  "patientName": "DIYABET / HIPERLIPIDEMI HASTASI",
+  "tckn": "**********",
+  "gender": "M",
+  "birthDate": "1976-01-01",
+  "reportNo": "10313",
+  "reportDate": "2025-10-06",
+  "validFrom": "2025-10-06",
+  "validTo": "2026-10-06",
+  "doctorSpecialty": "IC_HASTALIKLARI",
+  "explanation": "Metformin ve/veya sulfonilurelerin tolere edilebilir maksimum dozlarinda kullanilmasina ragmen yeterli glisemik kontrol saglanamamistir. Trigliserit 272 mg/dL.",
+  "diagnoses": [
+    { "code": "E78.4", "description": "HIPERLIPIDEMI, DIGER" },
+    { "code": "E11.9", "description": "INSULIN BAGIMLI OLMAYAN DIABETES MELLITUS" }
+  ],
+  "labValues": {
+    "trigliserit": 272,
+    "hba1c": 8.22,
+    "aclikKanSekeri": 208
+  },
+  "diabetesMellitus": true,
+  "oralAntidiabeticOnly": true,
+  "insulinUser": false,
+  "metforminSulfonylureaFailed": true,
+  "transplant": false,
+  "pregnant": false,
+  "items": [
+    {
+      "code": "SGKF1D",
+      "name": "FENOFIBRAT",
+      "type": "DRUG",
+      "drugClass": "NON_STATIN_LIPID",
+      "form": "ORAL",
+      "dailyDose": "1x1"
+    },
+    {
+      "code": "SGKGB1",
+      "name": "EMPAGLIFLOZIN",
+      "type": "DRUG",
+      "drugClass": "SGLT2",
+      "form": "ORAL",
+      "dailyDose": "1x1"
+    },
+    {
+      "code": "SGKFWL",
+      "name": "VILDAGLIPTIN+METFORMIN",
+      "type": "DRUG",
+      "drugClass": "DPP4",
+      "form": "ORAL",
+      "dailyDose": "2x1"
+    },
+    {
+      "code": "SGKFOA",
+      "name": "SEKER OLCUM CIHAZ VE CUBUKLARI",
+      "type": "SUPPLY",
+      "form": "STRIP",
+      "stripsPerDay": 4
+    }
+  ]
+}

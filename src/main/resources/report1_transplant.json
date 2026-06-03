@@ -1,0 +1,32 @@
+{
+  "patientName": "HUSEYIN ARSLANYUREKLI",
+  "tckn": "16325871****",
+  "gender": "M",
+  "birthDate": "1972-01-01",
+  "reportNo": "3292832",
+  "reportDate": "2025-11-12",
+  "validFrom": "2025-11-12",
+  "validTo": "2026-02-19",
+  "doctorSpecialty": "ENFEKSIYON_HASTALIKLARI",
+  "explanation": "11/11/2025 tarihinde bobrek nakli olan hastada CMV hastaliginin onlenmesinde transplantasyon sonrasi 100 gun sure ile valgansiklovir kullanimi uygundur.",
+  "diagnoses": [
+    { "code": "Z94.0", "description": "BOBREK NAKLI" }
+  ],
+  "labValues": {},
+  "diabetesMellitus": false,
+  "oralAntidiabeticOnly": false,
+  "insulinUser": false,
+  "metforminSulfonylureaFailed": false,
+  "transplant": true,
+  "pregnant": false,
+  "items": [
+    {
+      "code": "SGKFUV",
+      "name": "VALGANSIKLOVIR",
+      "type": "DRUG",
+      "drugClass": "ANTIVIRAL",
+      "form": "ORAL",
+      "dailyDose": "900 mg"
+    }
+  ]
+}
