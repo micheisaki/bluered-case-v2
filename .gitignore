@@ -3,3 +3,5 @@ target/
 lib/
 sources.txt
 *.class
+
+rapor.*
