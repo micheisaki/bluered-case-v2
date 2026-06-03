@@ -144,6 +144,6 @@ $env:GEMINI_API_KEY = "AIza...buraya-anahtar..."
 
 - Başlangıç: 1 Haziran 2026 (Pazartesi) ~14:00
 - Bitiş: 3 Haziran 2026 (Çarşamba) ~17:00
-- Toplam etkin çalışma: ~7 saat (gerçek değere göre güncelleyin)
+- Toplam etkin çalışma: ~7 saat 
 
-> Not: SUT'un tamamı yerine örnek raporların kap
+> Not: SUT'un tamamı yerine örnek raporların kapsamında hazırlandı.
